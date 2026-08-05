@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.6"
+      "Version": "10.0.4"
     },
-    "CreationDate": "2026-07-15T12:09:55+02:00"
+    "CreationDate": "2026-08-04T14:14:54+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -47,12 +47,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "astropix_v5-In1_Cu.g2",
+      "Path": "astropix_v5-In1_Cu.g1",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "astropix_v5-In2_Cu.g3",
+      "Path": "astropix_v5-In2_Cu.g2",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },

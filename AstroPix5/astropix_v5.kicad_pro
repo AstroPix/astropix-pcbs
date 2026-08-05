@@ -868,7 +868,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "C:\\Users\\hzhang\\Documents\\git\\astropix\\PCB\\AstroPix5\\bom\\astropix_v5.csv",
+    "bom_export_filename": "bom\\astropix_v5.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

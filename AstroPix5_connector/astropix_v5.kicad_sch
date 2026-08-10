@@ -11278,7 +11278,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 307.34) (xy 397.51 307.34)
+			(xy 394.97 307.34) (xy 396.24 307.34)
 		)
 		(stroke
 			(width 0)
@@ -11295,6 +11295,16 @@
 			(type default)
 		)
 		(uuid "1012dbc1-7c2b-45b9-9eaf-a2ffeb559db4")
+	)
+	(wire
+		(pts
+			(xy 403.86 317.5) (xy 405.13 317.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11b5a6f8-7a8e-4771-aecc-77cc73f530a5")
 	)
 	(wire
 		(pts
@@ -11748,7 +11758,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 314.96) (xy 398.78 314.96)
+			(xy 394.97 314.96) (xy 396.24 314.96)
 		)
 		(stroke
 			(width 0)
@@ -11758,7 +11768,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 309.88) (xy 397.51 309.88)
+			(xy 394.97 309.88) (xy 396.24 309.88)
 		)
 		(stroke
 			(width 0)
@@ -12085,6 +12095,16 @@
 			(type default)
 		)
 		(uuid "68ad709d-8359-4612-99d4-61aad0505cc3")
+	)
+	(wire
+		(pts
+			(xy 403.86 314.96) (xy 405.13 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69884f81-ab9b-44d1-b6ce-1fac1c89a9a9")
 	)
 	(wire
 		(pts
@@ -12425,6 +12445,16 @@
 			(type default)
 		)
 		(uuid "884b9628-bdde-4285-8b7d-ef6f321b7435")
+	)
+	(wire
+		(pts
+			(xy 403.86 307.34) (xy 405.13 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89a98a98-be38-45bd-aa48-39a4b8f93e77")
 	)
 	(wire
 		(pts
@@ -12908,7 +12938,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 312.42) (xy 397.51 312.42)
+			(xy 394.97 312.42) (xy 396.24 312.42)
 		)
 		(stroke
 			(width 0)
@@ -12985,6 +13015,16 @@
 			(type default)
 		)
 		(uuid "bbdbc146-84f3-404d-bc0f-96e06224c0a1")
+	)
+	(wire
+		(pts
+			(xy 403.86 312.42) (xy 405.13 312.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc98f6db-b2f8-450d-a4c1-145eb314e329")
 	)
 	(wire
 		(pts
@@ -13388,6 +13428,16 @@
 	)
 	(wire
 		(pts
+			(xy 403.86 309.88) (xy 405.13 309.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deddbbab-cbca-4825-b934-8e4aa0a87e44")
+	)
+	(wire
+		(pts
 			(xy 430.53 135.89) (xy 436.88 135.89)
 		)
 		(stroke
@@ -13478,7 +13528,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 317.5) (xy 398.78 317.5)
+			(xy 394.97 317.5) (xy 396.24 317.5)
 		)
 		(stroke
 			(width 0)
@@ -13757,7 +13807,7 @@
 		(uuid "1480f2c2-3410-4624-a6fe-ce8548ffdc92")
 	)
 	(label "SPI_right_CSN"
-		(at 398.78 317.5 0)
+		(at 405.13 317.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14097,7 +14147,7 @@
 		(uuid "5c518713-0557-4e36-868a-583deaf3f820")
 	)
 	(label "SPI_right_MOSI"
-		(at 397.51 312.42 0)
+		(at 405.13 312.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14177,7 +14227,7 @@
 		(uuid "6ced0e16-8623-4342-9530-f73431318fef")
 	)
 	(label "SPI_left_MISO1"
-		(at 397.51 307.34 0)
+		(at 405.13 307.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14367,7 +14417,7 @@
 		(uuid "90858ebd-cc2e-4243-bddf-ee3358947f11")
 	)
 	(label "SPI_left_MISO0"
-		(at 397.51 309.88 0)
+		(at 405.13 309.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14577,7 +14627,7 @@
 		(uuid "ce3870a2-7b7c-4635-82c4-bbb4953e39c7")
 	)
 	(label "SPI_right_CLK"
-		(at 398.78 314.96 0)
+		(at 405.13 314.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15167,7 +15217,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "196ce802-97f9-4b38-91fa-15d3ca0634eb")
 		(property "Reference" "H5"
@@ -15703,6 +15753,96 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 400.05 309.88 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "28cddcda-bf4b-4a0c-bd87-d7bb838acc11")
+		(property "Reference" "R11"
+			(at 395.478 309.88 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 400.05 309.88 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 400.05 308.102 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 400.05 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 400.05 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 400.05 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "45ce4ca6-e8f8-4ab2-b3a5-9062cb4256a4")
+		)
+		(pin "2"
+			(uuid "d56a5bdc-e968-4383-a2e0-5c181d616b3f")
+		)
+		(instances
+			(project "astropix_v5"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 227.33 74.93 0)
 		(unit 1)
@@ -15758,6 +15898,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 227.33 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 227.33 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17109,6 +17260,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 452.12 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "037579a0-b0aa-431b-9912-3b55a07ec18b")
 		)
@@ -17301,7 +17463,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "46e8a8b9-ac69-4e11-93cc-20576b0c86ba")
 		(property "Reference" "H4"
@@ -17599,6 +17761,96 @@
 			(project "astropix_v5"
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "#FLG04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 400.05 317.5 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4d4a4a09-b8be-4d76-91b6-e12e07af0c1a")
+		(property "Reference" "R14"
+			(at 395.478 317.5 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 400.05 317.5 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 400.05 315.722 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 400.05 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 400.05 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 400.05 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3e10609e-ad10-4810-a7eb-9791390ce267")
+		)
+		(pin "2"
+			(uuid "6752a857-2d96-486e-a2ff-87af077280c4")
+		)
+		(instances
+			(project "astropix_v5"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -17983,6 +18235,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 217.17 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 217.17 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -18880,6 +19143,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 452.12 327.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "81a25ca8-7b1f-46f4-9afc-fd0e01d27b57")
 		)
@@ -18987,6 +19261,96 @@
 			(project "astropix_v5"
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 400.05 307.34 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "83bfa626-2f5f-4f77-a9e7-b5f534dc6e6e")
+		(property "Reference" "R10"
+			(at 395.478 307.34 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 400.304 307.34 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 400.05 305.562 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 400.05 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 400.05 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 400.05 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "535fb651-dbcd-423b-8de1-98c84936addc")
+		)
+		(pin "2"
+			(uuid "641b75cf-d0b9-4c07-a9b9-c5425540153a")
+		)
+		(instances
+			(project "astropix_v5"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -19851,7 +20215,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a219c54-71d0-43e8-b1e1-fc894157391b")
@@ -19875,7 +20239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PCBEdge:BUS_PCIexpress_x16"
+		(property "Footprint" "Connector_PCBEdge:BUS_PCIexpress_x16_ilo"
 			(at 125.73 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -21252,6 +21616,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 205.74 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "620de963-7f7e-4851-8581-5ded1b6dda76")
 		)
@@ -21411,6 +21786,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 193.04 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0e03904a-2cfa-4644-bf81-3fdfe1e54949")
 		)
@@ -21500,6 +21886,96 @@
 			(project "astropix_v5"
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 400.05 314.96 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d7eaff51-ec7f-4e3b-9361-71fd9ff619e7")
+		(property "Reference" "R13"
+			(at 395.478 314.96 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 400.05 314.96 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 400.05 313.182 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 400.05 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 400.05 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 400.05 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fa8904a1-ca04-476e-b141-929c9db28068")
+		)
+		(pin "2"
+			(uuid "fdc2245b-66ca-4394-8ffc-b9d0f42b70b3")
+		)
+		(instances
+			(project "astropix_v5"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -22288,6 +22764,96 @@
 			(project "astropix_v5"
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 400.05 312.42 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fd62775c-7d28-4c17-b09b-adf92d9cedc0")
+		(property "Reference" "R12"
+			(at 395.478 312.42 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 400.05 312.42 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 400.05 310.642 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 400.05 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 400.05 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 400.05 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ec6bf137-a2b9-4abd-8a40-b8cac090fdfc")
+		)
+		(pin "2"
+			(uuid "7a2ba527-fe80-47d0-96e2-6140c8e3e29c")
+		)
+		(instances
+			(project "astropix_v5"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "R12")
 					(unit 1)
 				)
 			)

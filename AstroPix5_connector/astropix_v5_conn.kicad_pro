@@ -853,7 +853,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "pdf/",
+      "plot": "gerber/",
       "pos_files": "C:/Users/hzhang/Documents/git/astropix/PCB/AstroPix5/JLCPCB/",
       "specctra_dsn": "",
       "step": "",
@@ -1003,7 +1003,7 @@
         "uuid": "8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
       }
     ],
-    "used_designators": "C12,C16-18,#PWR23-27,#PWR141,#PWR144,J9-10,R10-15",
+    "used_designators": "C12,C16-18,#PWR23-27,#PWR141,#PWR144,R10-15,J9-10",
     "variants": []
   },
   "sheets": [

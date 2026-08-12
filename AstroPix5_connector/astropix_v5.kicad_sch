@@ -10605,7 +10605,7 @@
 	)
 	(text "If injection card is not used"
 		(exclude_from_sim no)
-		(at 166.37 269.24 0)
+		(at 165.354 264.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10963,6 +10963,10 @@
 	(no_connect
 		(at 148.59 165.1)
 		(uuid "43c71bc4-f43f-4fdf-82cd-66eb216f1c2f")
+	)
+	(no_connect
+		(at 148.59 271.78)
+		(uuid "45599778-a7cc-4b76-8b83-f7c838bd3a3c")
 	)
 	(no_connect
 		(at 104.14 139.7)
@@ -11969,16 +11973,6 @@
 			(type default)
 		)
 		(uuid "5e55b4a0-2141-4936-a2ae-332214c0b686")
-	)
-	(wire
-		(pts
-			(xy 148.59 271.78) (xy 156.21 271.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ef71ba1-c263-4033-9442-ee1a1bbc018f")
 	)
 	(wire
 		(pts
@@ -14679,16 +14673,6 @@
 			(justify left bottom)
 		)
 		(uuid "ce9a809a-a0a8-41fc-9bce-15523bdb7b18")
-	)
-	(label "SR_load"
-		(at 156.21 271.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cfc4a0ca-7556-4db8-8648-9bf33b2c176e")
 	)
 	(label "timestamp_clk"
 		(at 101.6 193.04 180)

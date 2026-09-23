@@ -17461,7 +17461,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files no)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "40271d77-3ddb-4944-8244-3fc653b98ea6")
 		(property "Reference" "U2"
@@ -21168,7 +21168,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files no)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "99493cbb-9553-49c0-aa1c-f661df3d5ccb")
 		(property "Reference" "U2"

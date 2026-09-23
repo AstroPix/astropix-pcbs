@@ -5,7 +5,6 @@
 "C4,C11,C13","10uF","","Capacitor_SMD:C_0603_1608Metric","3","","CC1210KKX7R8BB106 ","10%","Yageo"
 "J1,J4,J5","HBOut","","Connector_Coaxial:SMA_Molex_73251-2200_Horizontal","3","","73251-2200","","Molex"
 "J2","Conn_01x05","","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical","1","","TSW-105-07-G-S","","Samtec"
-"J3","pcie_GECCO","","Connector_PCBEdge:BUS_PCIexpress_x16_ilo","1","","","",""
 "J7","HV_in_external","","Connector_Coaxial:SMA_Molex_73251-2200_Horizontal","1","","73251-2200","","Molex"
 "J8","Conn_01x03","","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","1","","TSW-103-07-G-S","","Samtec"
 "J9","SPI_left","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","1","","TSW-106-07-G-S","","Samtec"
@@ -18,4 +17,3 @@
 "R4","10k","","Resistor_SMD:R_0603_1608Metric","1","","RC0603FR-0710KL","1%","Yageo"
 "R6","0k","","Resistor_SMD:R_0603_1608Metric","1","","RC0603JR-070RL","0Ω","Yageo"
 "R10,R11,R12,R13,R14","22","","Resistor_SMD:R_0402_1005Metric","5","","RC0402FR-0722RL","1%","Yageo"
-"U2","AstroPix5_split_powerring","","astropix:AstroPix5_v2","1","","","",""

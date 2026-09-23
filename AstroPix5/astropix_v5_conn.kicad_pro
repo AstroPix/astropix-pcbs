@@ -557,7 +557,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "astropix_v5.kicad_pro",
+    "filename": "astropix_v5_conn.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -890,7 +890,7 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Value",
           "name": "Value",
           "show": true
@@ -917,7 +917,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -929,7 +929,7 @@
           "group_by": false,
           "label": "Voltage",
           "name": "Voltage",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -942,10 +942,28 @@
           "label": "KiLib_Generator",
           "name": "KiLib_Generator",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MNP",
+          "name": "MNP",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": true
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
@@ -1004,8 +1022,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "astropix_v5.kicad_sch",
-        "name": "astropix_v5",
+        "filename": "astropix_v5_conn.kicad_sch",
+        "name": "astropix_v5_conn",
         "uuid": "8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
       }
     ],
@@ -1015,7 +1033,7 @@
   "sheets": [
     [
       "8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079",
-      "astropix_v5"
+      "astropix_v5_conn"
     ]
   ],
   "text_variables": {},

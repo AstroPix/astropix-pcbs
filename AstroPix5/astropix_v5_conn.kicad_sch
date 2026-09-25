@@ -10719,10 +10719,22 @@
 		(uuid "2e931df2-7bb6-4c3b-a6f4-d8feca7e7280")
 	)
 	(junction
+		(at 151.13 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f121f95-1e30-4ecb-8411-5af236ed85ec")
+	)
+	(junction
 		(at 83.82 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d578192-02e1-4521-8b41-954b99c49bba")
+	)
+	(junction
+		(at 396.24 226.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "464fd615-af22-4d9e-acf0-fb3e25b4a54c")
 	)
 	(junction
 		(at 102.87 144.78)
@@ -10777,12 +10789,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a98d6c8-1f01-4393-b670-8327fdf71f48")
-	)
-	(junction
-		(at 396.24 226.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b8086e5-81b1-428d-af5d-1a40b25f0a61")
 	)
 	(junction
 		(at 232.41 41.91)
@@ -10857,6 +10863,12 @@
 		(uuid "c0e37d22-a703-4fe8-a0b2-a0e627134e14")
 	)
 	(junction
+		(at 396.24 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc06bc66-c342-4335-a9a7-ad5af0c7260f")
+	)
+	(junction
 		(at 38.1 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10873,12 +10885,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da6d4103-e255-4a79-ae9b-a14eb191fcfd")
-	)
-	(junction
-		(at 151.13 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e21c302d-9fce-40d1-8c76-6f074e7372b2")
 	)
 	(junction
 		(at 96.52 144.78)
@@ -10989,6 +10995,10 @@
 		(uuid "5d897848-9857-4c89-ba0a-64074d2d29ef")
 	)
 	(no_connect
+		(at 148.59 246.38)
+		(uuid "62a5a7c4-dbee-4f8d-81bb-65acbedaffa9")
+	)
+	(no_connect
 		(at 148.59 154.94)
 		(uuid "65d8bb04-6543-4f12-b38e-62cbae7b08c6")
 	)
@@ -11059,6 +11069,14 @@
 	(no_connect
 		(at 148.59 170.18)
 		(uuid "abfef066-f959-4360-b428-485092d5f644")
+	)
+	(no_connect
+		(at 104.14 243.84)
+		(uuid "ae43a435-ea05-4708-bc87-792bcd84e78c")
+	)
+	(no_connect
+		(at 104.14 241.3)
+		(uuid "b61beb01-90e9-4bdc-8da7-fde1c201daf3")
 	)
 	(no_connect
 		(at 104.14 134.62)
@@ -11236,16 +11254,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 243.84) (xy 87.63 243.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11fb4e58-2266-4e70-84e1-fdb24a59a13f")
-	)
-	(wire
-		(pts
 			(xy 350.52 330.2) (xy 365.76 330.2)
 		)
 		(stroke
@@ -11373,16 +11381,6 @@
 			(type default)
 		)
 		(uuid "2148060e-ec98-48be-bd4d-129c620b5924")
-	)
-	(wire
-		(pts
-			(xy 104.14 241.3) (xy 87.63 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "228ddeb7-959f-472d-85ff-031ad5f0cd63")
 	)
 	(wire
 		(pts
@@ -12236,7 +12234,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 144.78) (xy 161.29 144.78)
+			(xy 156.21 144.78) (xy 151.13 144.78)
 		)
 		(stroke
 			(width 0)
@@ -13186,16 +13184,6 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 224.79) (xy 396.24 226.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf240c7f-b3a0-4bc2-a157-f9a7ea37c619")
-	)
-	(wire
-		(pts
 			(xy 80.01 29.21) (xy 83.82 29.21)
 		)
 		(stroke
@@ -13226,7 +13214,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 144.78) (xy 161.29 142.24)
+			(xy 156.21 144.78) (xy 156.21 142.24)
 		)
 		(stroke
 			(width 0)
@@ -13646,16 +13634,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 246.38) (xy 157.48 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f50692a2-0d24-4855-a51d-ef0a4f562c0c")
-	)
-	(wire
-		(pts
 			(xy 87.63 254) (xy 104.14 254)
 		)
 		(stroke
@@ -13733,6 +13711,16 @@
 			(type default)
 		)
 		(uuid "f9dc99dd-d5b5-4940-9eb6-1704445b1f55")
+	)
+	(wire
+		(pts
+			(xy 396.24 219.71) (xy 396.24 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa2ceae4-58e1-4235-b331-85c9974a84fd")
 	)
 	(wire
 		(pts
@@ -14044,16 +14032,6 @@
 		)
 		(uuid "4e14eecd-4b51-40a0-b73c-76d5a6a03e9f")
 	)
-	(label "SR_sin"
-		(at 157.48 246.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4e3a1737-bb8b-40f6-a5f2-10ed8a4c87b4")
-	)
 	(label "ThPix"
 		(at 351.79 100.33 180)
 		(effects
@@ -14214,16 +14192,6 @@
 		)
 		(uuid "673a1c4f-4d56-4090-b4c8-02d8575e50ae")
 	)
-	(label "SR_ck2"
-		(at 87.63 243.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "68b43b38-e4c0-43e4-849c-415b9064035d")
-	)
 	(label "SPI_right_CLK"
 		(at 464.82 325.12 0)
 		(effects
@@ -14243,16 +14211,6 @@
 			(justify left bottom)
 		)
 		(uuid "6a1bcf54-be7d-4d07-895e-eef958b279df")
-	)
-	(label "SR_ck1"
-		(at 87.63 241.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6a47b844-8ebc-45ca-bed2-8c8855af72b0")
 	)
 	(label "Clk20_Ext_P"
 		(at 350.52 269.24 0)
@@ -14313,16 +14271,6 @@
 			(justify left bottom)
 		)
 		(uuid "770b0ce8-ddfe-434f-bcb3-96b9ff7fc149")
-	)
-	(label "POW4_in"
-		(at 160.02 144.78 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7b2f3a3e-1a9b-40af-a3b7-47c691be41b0")
 	)
 	(label "SR_ck1"
 		(at 163.83 256.54 180)
@@ -15092,7 +15040,7 @@
 				)
 			)
 		)
-		(property "MNP" "CC1210KKX7R8BB106 "
+		(property "MNP" "CC0603KRX5R6BB106"
 			(at 147.32 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15663,6 +15611,84 @@
 			(project "astropix_v5_conn"
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VDD")
+		(at 396.24 219.71 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1b5c853f-196a-45a1-a98f-e0425fd003c0")
+		(property "Reference" "#PWR032"
+			(at 396.24 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VDD"
+			(at 395.859 215.3158 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 396.24 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 396.24 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 396.24 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6de21497-b6c0-4276-b375-b8dcf0745745")
+		)
+		(instances
+			(project "astropix_v5_conn"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -19986,7 +20012,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 161.29 142.24 0)
+		(at 156.21 142.24 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -19997,7 +20023,7 @@
 		(dnp no)
 		(uuid "79f81159-35c3-48f0-a644-d9022f1a22cf")
 		(property "Reference" "#PWR022"
-			(at 161.29 146.05 0)
+			(at 156.21 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20008,7 +20034,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 160.909 137.8458 0)
+			(at 155.829 137.8458 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20018,7 +20044,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 142.24 0)
+			(at 156.21 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20029,7 +20055,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 142.24 0)
+			(at 156.21 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20040,7 +20066,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 161.29 142.24 0)
+			(at 156.21 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22277,7 +22303,7 @@
 				)
 			)
 		)
-		(property "MNP" "CC1210KKX7R8BB106 "
+		(property "MNP" "CC0603KRX5R6BB106"
 			(at 106.68 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -22553,84 +22579,6 @@
 			(project "astropix_v5_conn"
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "#FLG08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VDD")
-		(at 396.24 224.79 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b6321db0-8ef9-4397-8d40-6ded6448c19a")
-		(property "Reference" "#PWR03"
-			(at 396.24 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 395.859 220.3958 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 396.24 224.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 396.24 224.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 396.24 224.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "378f6e26-168c-4e5c-805c-a0c62db30f56")
-		)
-		(instances
-			(project "astropix_v5_conn"
-				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -23148,6 +23096,85 @@
 			(project "astropix_v5_conn"
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 396.24 219.71 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0104b71-2aba-4f3a-a866-3fc9d70bda41")
+		(property "Reference" "#FLG01"
+			(at 394.335 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 392.43 219.7099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 396.24 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 396.24 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 396.24 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "357765d5-3c18-4a97-bfe4-083970036fd5")
+		)
+		(instances
+			(project "astropix_v5_conn"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -24429,7 +24456,7 @@
 				)
 			)
 		)
-		(property "MNP" "CC1210KKX7R8BB106 "
+		(property "MNP" "CC0603KRX5R6BB106"
 			(at 63.5 35.56 0)
 			(hide yes)
 			(show_name no)

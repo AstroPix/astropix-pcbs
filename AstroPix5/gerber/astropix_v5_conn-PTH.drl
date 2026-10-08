@@ -1,7 +1,7 @@
 M48
-; DRILL file KiCad 10.0.4 date 2026-10-01T12:07:33
+; DRILL file KiCad 10.0.4 date 2026-10-07T23:37:11
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2026-10-01T12:07:33+02:00
+; #@! TF.CreationDate,2026-10-07T23:37:11+02:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,10.0.4
 ; #@! TF.FileFunction,Plated,1,4,PTH
 FMAT,2
@@ -29,7 +29,7 @@ X165.306Y-114.244
 X165.725Y-111.6
 X166.0Y-127.05
 X167.175Y-109.575
-X167.637Y-75.736
+X167.8Y-74.825
 X168.3Y-103.55
 X170.587Y-82.536
 X172.862Y-105.032

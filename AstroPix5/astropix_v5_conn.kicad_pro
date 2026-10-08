@@ -853,7 +853,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
+      "plot": "pdf/",
       "pos_files": "C:/Users/hzhang/Documents/git/astropix/PCB/AstroPix5/JLCPCB/",
       "specctra_dsn": "",
       "step": "",
